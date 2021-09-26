@@ -1,4 +1,4 @@
-# Landing Page Organic OS
+# Landing Page Organic_OS!
 
 Landing page 100% responsiva feita com HTMLS CSS e Javascript, feito com base no template OriginSix da RocketSeat.
 
